@@ -1,0 +1,2 @@
+Bundle "git@github.com:flazz/vim-colorschemes.git"
+Bundle "git@github.com:davidhalter/jedi-vim.git"
