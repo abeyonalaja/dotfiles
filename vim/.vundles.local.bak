@@ -1,2 +1,4 @@
 Bundle "git@github.com:flazz/vim-colorschemes.git"
 Bundle "git@github.com:davidhalter/jedi-vim.git"
+Bundle "https://github.com/kogakure/vim-sparkup"
+Bundle "https://github.com/scrooloose/syntastic.git"
